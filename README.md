@@ -2,13 +2,7 @@
 <h1 align="center">Hello 👋 World! I am Akash<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> </h1>
 <h3 align="center">"I’m a Programmer Who Believes in Small, Consistent Improvements"</h3>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">
-  <!-- Typing SVG by Getintorj - https://github.com/getintorj/readme-typing-svg -->
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;FULL-STACK%20WEB%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;PUBLIC%20SPEAKER;EXPERIENCED%20UI%2FUX%20DESIGNER;2%2B%20YEAR's%20of%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuco&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuco" /> </p>
 
@@ -18,11 +12,10 @@
 
 - 💬 Ask me about *Web Development*
 
-- 📫 How to reach me *singhimanshu41@gmail.com*
+- 📫 How to reach me *akash3903jnp@gmail.com*
 
 - ⚡ Fun fact *"I’m the kind of person who learns from every bug."*
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -34,14 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshuco&show_icons=true&locale=en" alt="himanshuco" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuco&" alt="himanshuco" /></p>
-
-
- javascript
-const future = (action) => {
-  if (action === "code") {
-    return "The best way to predict the future is to code it.";
-  } else {
-    return "Start coding now!";
-  }
-};
-console.log(future("code"));
